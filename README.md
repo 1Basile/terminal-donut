@@ -1,5 +1,5 @@
 # terminal-donut
-Small script that render 3-d donat in terminal.
+Small script that render 3-d donat in the terminal.
 Just do:
 
 $ make
